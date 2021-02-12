@@ -1,1 +1,4 @@
 # Marketing-Prediction
+
+<br> This project was part of the challenges given by an 8-week coding challenge held by Shopee Code League. This challenge was related to the store review analysis that happened in the Shopee. We were asked to build a model that could correctly predict whether the users opened up Shopee Admin's emails based on their email behavior. Unlike the other challenges, this challenge included two datasets: the users' identity, and the other is the collection of email-sending activities done by Shopee. From this challenge, I learned how to merge two datasets and extract some insightful information from the columns. 
+<br> Its evaluation score was Matthews Correlation Coefficient (MCC), and mine scored 0.49384 on the final leaderboard, while the highest score hits 0.53998. This challenge marked the end of the data science competition held by Shopee.
